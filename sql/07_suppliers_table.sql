@@ -1,0 +1,32 @@
+USE ecommerce_sales;
+
+CREATE TABLE suppliers(
+    supplier_id VARCHAR(10) PRIMARY KEY,
+    supplier_name VARCHAR(100),
+    city VARCHAR(50)
+);
+
+INSERT INTO suppliers
+(supplier_id, supplier_name, city)
+VALUES
+('SUP001','ABC Electronics','Pune'),
+('SUP002','Global Traders','Mumbai'),
+('SUP003','Tech World Pvt Ltd','Bangalore'),
+('SUP004','Smart Supplies','Delhi'),
+('SUP005','Prime Distributors','Hyderabad'),
+('SUP006','NextGen Solutions','Chennai'),
+('SUP007','Quality Goods','Ahmedabad'),
+('SUP008','Reliable Traders','Kolkata'),
+('SUP009','Star Suppliers','Jaipur'),
+('SUP010','Elite Distribution','Pune'),
+('SUP011','Metro Wholesale','Nagpur'),
+('SUP012','Digital Mart','Mumbai'),
+('SUP013','Future Enterprises','Bangalore'),
+('SUP014','Nova Supplies','Delhi'),
+('SUP015','Royal Distributors','Surat'),
+('SUP016','Vision Traders','Indore'),
+('SUP017','Bright Solutions','Chandigarh'),
+('SUP018','Mega Suppliers','Lucknow'),
+('SUP019','Urban Wholesale','Pune'),
+('SUP020','Global Enterprise','Noida');
+select * from suppliers;

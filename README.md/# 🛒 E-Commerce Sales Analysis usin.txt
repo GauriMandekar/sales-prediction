@@ -1,0 +1,185 @@
+# 🛒 E-Commerce Sales Analysis using SQL
+
+## 📌 Project Overview
+
+This project analyzes an E-Commerce sales database using **MySQL** to answer real-world business questions. The goal is to demonstrate SQL skills by designing a relational database, writing analytical queries, and extracting meaningful business insights.
+
+The project covers customer behavior, sales performance, product analysis, and order trends that help businesses make data-driven decisions.
+
+---
+
+# 🎯 Objectives
+
+- Design a relational database
+- Create tables with Primary Keys and Foreign Keys
+- Import and manage sales data
+- Perform business analysis using SQL
+- Generate insights from customer and sales data
+- Practice industry-level SQL queries
+
+---
+
+# 🗂 Database Schema
+
+The database contains the following tables:
+
+| Table | Description |
+|--------|-------------|
+| Customers | Customer information |
+| Products | Product details |
+| Categories | Product categories |
+| Suppliers | Supplier information |
+| Orders | Customer orders |
+| Order_Items | Products included in each order |
+
+---
+
+# 🛠 Technologies Used
+
+- MySQL Workbench
+- SQL
+- Relational Database Design
+- Git
+- GitHub
+
+---
+
+# 📊 SQL Concepts Demonstrated
+
+This project includes the use of:
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- LIMIT
+- INNER JOIN
+- Aggregate Functions
+  - SUM()
+  - COUNT()
+  - AVG()
+  - MAX()
+  - MIN()
+- Aliases
+- Primary Keys
+- Foreign Keys
+- Database Relationships
+
+---
+
+# 📈 Business Questions Solved
+
+Some of the business problems solved in this project include:
+-- 1. How many customers are registered in our platform?
+-- 2. How many products are available in each category?
+-- 3. What is the total number of orders placed by customers?
+-- 4. What is the total revenue generated from all orders?
+-- 5. Which products are the top 5 best-selling products based on quantity sold?
+-- 6. Which products generate the highest revenue?
+-- 7. Which category generates the highest revenue?
+-- 8. Which category has the highest number of products?
+-- 9. Who are the top 5 customers based on total spending?
+-- 10. Which customers have placed the maximum number of orders?
+-- 11. What is the average order value?
+-- 12. Which month generated the highest sales revenue?
+-- 13. Which day generated the highest sales revenue?
+-- 14. Which suppliers provide the maximum number of products?
+-- 15. Which category generated the highest revenue?
+-- 16. Find products that have never been ordered.
+-- 17. Find customers who have never placed an order.
+-- 18. Calculate the total quantity sold for each category.
+-- 19. Identify the highest-value order placed by a customer.
+
+# 📷 Project Screenshots
+
+## Database Tables
+
+![Database Tables](images/database.png)
+
+---
+
+## Highest Value Orders
+
+![each category wise available products ](images/available_product.png)
+
+---
+
+## Customer Analysis
+
+![Customer Analysis](images/top_selling.png)
+
+---
+
+# 📂 Project Structure
+
+```
+ecommerce-sales/
+
+│── sql/
+│   ├── 01_create_database.sql
+│   ├── 02_customers_table.sql
+│   ├── 03_categories_table.sql
+│   ├── 04_products_table.sql
+│   ├── 05_orders_table.sql
+│   ├── 06_order_items_table.sql
+│   ├── 07_suppliers_table.sql
+│   └── 08_analysis_queries.sql
+
+│── images/
+│   ├── database.png
+│   ├── available_roducts.png
+│   └── top_selling.png
+
+│── README.md
+```
+
+---
+
+# 💡 Key Insights
+
+- Identified the highest revenue-generating orders.
+- Analyzed customer purchasing behavior.
+- Compared category-wise sales performance.
+- Evaluated product demand using order data.
+- Measured overall business revenue using SQL.
+
+---
+
+# 🚀 Skills Demonstrated
+
+- SQL Query Writing
+- Database Design
+- Relational Database Management
+- Data Analysis
+- Data Aggregation
+- SQL Joins
+- Business Problem Solving
+- Git & GitHub
+
+---
+
+# 📌 Future Improvements
+
+This project can be extended by adding:
+
+- Python Automation
+- Pandas Data Analysis
+- Power BI Dashboard
+- Machine Learning Sales Prediction
+- Interactive Dashboard
+- AI-powered Business Insights
+
+---
+
+# 👩‍💻 Author
+
+**Gauri Mandekar**
+
+B.Sc. Data Science Student
+
+Learning SQL, Python, Data Analytics, and Business Intelligence.
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.

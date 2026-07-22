@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,gender,email,phone,city,state,join_date
+1,Aarav,Sharma,Male,aarav.sharma@gmail.com,9876500001,Pune,Maharashtra,2025-01-10
+2,Diya,Patel,Female,diya.patel@gmail.com,9876500002,Ahmedabad,Gujarat,2025-01-15
+3,Rohan,Verma,Male,rohan.verma@gmail.com,9876500003,Delhi,Delhi,2025-02-01
+4,Ananya,Singh,Female,ananya.singh@gmail.com,9876500004,Lucknow,"Uttar Pradesh",2025-02-10
+5,Kabir,Joshi,Male,kabir.joshi@gmail.com,9876500005,Mumbai,Maharashtra,2025-02-15
+6,Sneha,Kulkarni,Female,sneha.k@gmail.com,9876500006,Nagpur,Maharashtra,2025-03-01
+7,Aditya,Gupta,Male,aditya.g@gmail.com,9876500007,Jaipur,Rajasthan,2025-03-05
+8,Priya,Nair,Female,priya.nair@gmail.com,9876500008,Kochi,Kerala,2025-03-12
+9,Rahul,Yadav,Male,rahul.y@gmail.com,9876500009,Patna,Bihar,2025-03-20
+10,Neha,Mishra,Female,neha.m@gmail.com,9876500010,Bhopal,"Madhya Pradesh",2025-04-01
+11,Arjun,Reddy,Male,arjun.r@gmail.com,9876500011,Hyderabad,Telangana,2025-04-08
+12,Kavya,Iyer,Female,kavya.i@gmail.com,9876500012,Chennai,"Tamil Nadu",2025-04-15
+13,Vikram,Das,Male,vikram.d@gmail.com,9876500013,Kolkata,"West Bengal",2025-05-01
+14,Pooja,Chauhan,Female,pooja.c@gmail.com,9876500014,Dehradun,Uttarakhand,2025-05-06
+15,Yash,Mehta,Male,yash.m@gmail.com,9876500015,Surat,Gujarat,2025-05-15
+16,Meera,Jain,Female,meera.j@gmail.com,9876500016,Indore,"Madhya Pradesh",2025-06-01
+17,Nikhil,Bansal,Male,nikhil.b@gmail.com,9876500017,Chandigarh,Chandigarh,2025-06-08
+18,Riya,Roy,Female,riya.roy@gmail.com,9876500018,Bhubaneswar,Odisha,2025-06-18
+19,Karan,Malhotra,Male,karan.m@gmail.com,9876500019,Noida,"Uttar Pradesh",2025-07-01
+20,Aisha,Khan,Female,aisha.k@gmail.com,9876500020,Bengaluru,Karnataka,2025-07-10

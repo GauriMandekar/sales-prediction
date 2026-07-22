@@ -1,0 +1,21 @@
+product_id,product_name,category_id,price,stock_quantity
+1,"iPhone 16",1,79999.00,30
+2,"Samsung Galaxy S25",1,74999.00,40
+3,"HP Pavilion Laptop",1,58999.00,25
+4,"Boat Earbuds",1,1999.00,200
+5,"Nike Running Shoes",9,4999.00,100
+6,"Levis Jeans",2,2499.00,120
+7,WomensKurti,2,1499.00,150
+8,"Office Chair",8,6999.00,35
+9,"Study Table",8,8999.00,20
+10,"Air Fryer",3,5499.00,40
+11,"Mixer Grinder",3,3499.00,50
+12,"Face Wash",4,399.00,180
+13,"Protein Powder",13,2499.00,60
+14,"Cricket Bat",5,2999.00,70
+15,Football,5,999.00,90
+16,"Python Programming Book",6,799.00,120
+17,"Notebook Pack",12,299.00,300
+18,"Dog Food 5kg",15,1499.00,45
+19,"Car Vacuum Cleaner",14,1999.00,30
+20,"Gold Plated Necklace",11,3499.00,15

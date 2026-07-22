@@ -1,0 +1,40 @@
+USE ecommerce_sales;
+-- 1. How many customers are registered in our platform?
+
+-- 2. How many products are available in each category?
+
+-- 3. What is the total number of orders placed by customers?
+
+-- 4. What is the total revenue generated from all orders?
+
+-- 5. Which products are the top 5 best-selling products based on quantity sold?
+
+-- 6. Which products generate the highest revenue?
+
+-- 7. Which category generates the highest revenue?
+
+-- 8. Which category has the highest number of products?
+
+-- 9. Who are the top 5 customers based on total spending?
+
+-- 10. Which customers have placed the maximum number of orders?
+
+-- 11. What is the average order value?
+
+-- 12. Which month generated the highest sales revenue?
+
+-- 13. Which month had the highest number of orders?
+
+-- 14. Which suppliers provide the maximum number of products?
+
+-- 15. Which suppliers contribute the highest revenue through their products?
+
+-- 16. Find products that have never been ordered.
+
+-- 17. Find customers who have never placed an order.
+
+-- 18. What are the most frequently purchased product combinations?
+
+-- 19. Calculate the total quantity sold for each category.
+
+-- 20. Identify the highest-value order placed by a customer.
